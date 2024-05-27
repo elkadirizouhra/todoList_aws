@@ -1,0 +1,5 @@
+{
+  "todo": "https://u2fkqqxnpj.execute-api.us-east-1.amazonaws.com/apiV1/todo",
+  "todos": "https://u2fkqqxnpj.execute-api.us-east-1.amazonaws.com/apiV1/todos",
+  "todoComplete": "https://u2fkqqxnpj.execute-api.us-east-1.amazonaws.com/apiV1/todo/todoComplete"
+}
